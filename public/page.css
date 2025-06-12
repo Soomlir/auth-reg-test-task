@@ -2,14 +2,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Высота экрана, чтобы центрировать по вертикали */
-  gap: 40px; /* Отступ между блоками */
+  height: 100vh; 
+  gap: 40px; /
   padding: 20px;
   box-sizing: border-box;
 }
 
 .page__info {
-  flex: 1 1 300px; /* Позволяет блоку растягиваться */
+  flex: 1 1 300px; 
   max-width: 400px;
   text-align: center;
   border: 1px solid #ccc;
